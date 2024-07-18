@@ -1,0 +1,6 @@
+s='sowjanya'
+count=0
+for c in s:
+    if c in s :
+        count+=1
+print(count)
